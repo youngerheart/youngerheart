@@ -10,5 +10,4 @@
 - ⚡ Fun fact: ...
 
 [![Stats](https://github-readme-stats.vercel.app/api?username=youngerheart&show_icons=true&theme=tokyonight)](https://github.com/youngerheart/youngerheart)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=youngerheart&layout=compact&theme=tokyonight)](https://github.com/youngerheart/youngerheart)
